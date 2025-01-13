@@ -1,0 +1,1 @@
+This folder is going to contain my solutions to block and inline CSS exercises.
