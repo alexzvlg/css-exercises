@@ -30,7 +30,6 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
-  flex: 1;
 }
 
 button {
@@ -53,10 +52,6 @@ ul {
   margin: 0;
   display: flex;
   gap: 16px;
-}
-
-.links {
-    flex: 3;
 }
 
 .right-side, .left-side {
